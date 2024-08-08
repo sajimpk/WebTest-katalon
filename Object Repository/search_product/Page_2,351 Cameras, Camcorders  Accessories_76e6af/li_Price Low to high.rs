@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Price Low to high</name>
+   <tag></tag>
+   <elementGuidId>c2020875-70c1-4443-a7fd-4344d3e2b4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='price_asc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#price_asc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Price: Low to high&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e974af00-63e4-42d7-aeb6-bdf4cccd8109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dd-list-item--shau1 list-highlight-focus--1t1-X list-highlight-hover--1swxG</value>
+      <webElementGuid>e40f472d-10cd-415b-b8f8-efab3cd66b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>price_asc</value>
+      <webElementGuid>39bcc8a7-0a56-4f09-a91a-b4850f7cc94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>bea1b704-3e1c-44ca-8cb1-b66f301dc368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: Low to high</value>
+      <webElementGuid>c62e4692-754a-4a29-ae0d-8166f59c2110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;price_asc&quot;)</value>
+      <webElementGuid>a41bace1-9cda-4883-9a7b-d7a16b774428</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='price_asc']</value>
+      <webElementGuid>b732cf95-39ff-424c-9c0a-1e92a51f6a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price: High to low'])[1]/following::li[1]</value>
+      <webElementGuid>00880f68-a033-48a9-a35e-5881d735befe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date: Oldest on top'])[1]/following::li[2]</value>
+      <webElementGuid>cd21e060-498d-43a6-ae1f-af3a67239023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price: Low to high']/parent::*</value>
+      <webElementGuid>9f5e9b2e-0c09-4817-8549-f9039d7815d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/ul/li[4]</value>
+      <webElementGuid>f8b264c1-3aec-44c7-806c-ae3651d45b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'price_asc' and (text() = 'Price: Low to high' or . = 'Price: Low to high')]</value>
+      <webElementGuid>ce82794f-9ef5-4dc8-bce9-af8cd951758f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

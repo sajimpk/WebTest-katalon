@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue with Email</name>
+   <tag></tag>
+   <elementGuidId>157df755-43cb-4fa4-9246-fae218a91226</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn--1gFez.secondary--Os-e9.background--2lR9B.small--1MQ15.button--eCUEQ.gtm-email-login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue with Email&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>397ffcac-7660-4947-b943-d3c33f21b31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn--1gFez secondary--Os-e9 background--2lR9B small--1MQ15 button--eCUEQ gtm-email-login</value>
+      <webElementGuid>e6ecbc40-ad34-4aec-84c2-aea48cffbe1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66e02db0-fd0d-4f20-85f0-9cf8b467c945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue with Email</value>
+      <webElementGuid>fa9278be-c941-4027-a47b-ed967d7e645a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bgwhite&quot;]/div[3]/div[@class=&quot;modal-overlay--3cs8Z&quot;]/div[@class=&quot;focus-trap-wrapper--2kIsn&quot;]/div[@class=&quot;modal-content--1umVj&quot;]/div[@class=&quot;row--3Vhjr login-container--2z_9L justify-content-flex-start--1Xozy align-items-normal--vaTgD flex-wrap-wrap--2PCx8 flex-direction-row--27fh1 flex--3fKk1&quot;]/div[@class=&quot;sm-col-12--30zDS lg-col-6--g-Ot_  login--hZ65g block--3v-Ow&quot;]/div[@class=&quot;container--2mwdK&quot;]/div[@class=&quot;gtm-email-login&quot;]/button[@class=&quot;btn--1gFez secondary--Os-e9 background--2lR9B small--1MQ15 button--eCUEQ gtm-email-login&quot;]</value>
+      <webElementGuid>6940303f-b16a-4e98-aec5-98382c73c27e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>15e45b68-eeca-465b-b6cb-bca4dd45d156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with Facebook'])[1]/following::button[1]</value>
+      <webElementGuid>58442400-220b-4fc8-acbc-79ac469503d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with Google'])[1]/following::button[2]</value>
+      <webElementGuid>7a85aa36-a3f1-4b95-92a9-5e9996486bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By signing up for an account you agree to our'])[1]/preceding::button[1]</value>
+      <webElementGuid>7de1a1d0-5803-4020-965d-91fd48f0c448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>efae2f70-3ec0-48c7-bc75-4f8586b8d641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Continue with Email' or . = 'Continue with Email')]</value>
+      <webElementGuid>99daf443-3b27-426f-ba15-381039afa826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

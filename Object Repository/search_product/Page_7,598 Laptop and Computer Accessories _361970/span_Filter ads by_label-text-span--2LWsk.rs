@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter ads by_label-text-span--2LWsk</name>
+   <tag></tag>
+   <elementGuidId>d5902655-6dc7-42e1-80cd-d7f1d717eeb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-wrapper']/div/div[3]/div/div[2]/div[2]/div/div[2]/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-text-span--2LWsk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;URGENT&quot;i >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05a1ef0a-9718-4d91-8861-019912fb6bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text-span--2LWsk</value>
+      <webElementGuid>832c1265-49d1-4c14-a17c-8ec5ff04794b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-wrapper&quot;)/div[@class=&quot;container--297Nx all&quot;]/div[3]/div[@class=&quot;main-section--3D6zE&quot;]/div[@class=&quot;row--3Vhjr main-container--28aG5 justify-content-flex-start--1Xozy align-items-normal--vaTgD flex-wrap-wrap--2PCx8 flex-direction-row--27fh1 flex--3fKk1&quot;]/div[@class=&quot;sm-col-12--30zDS lg-col-3--YDkH9  filter-pane--nvqC4 block--3v-Ow&quot;]/div[@class=&quot;filter-container--2UQcI&quot;]/div[2]/div[2]/div[@class=&quot;custom-checkbox--2_15X&quot;]/label[@class=&quot;label-wrapper--2lPMv&quot;]/span[@class=&quot;label-text-span--2LWsk&quot;]</value>
+      <webElementGuid>1f263c5e-d37d-4084-818d-2955f3eee68a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-wrapper']/div/div[3]/div/div[2]/div[2]/div/div[2]/div[2]/div/label/span</value>
+      <webElementGuid>7551b7da-fb06-4768-9b37-29823ad46d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>38758a65-245a-4d13-b339-cc78e9034b11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
